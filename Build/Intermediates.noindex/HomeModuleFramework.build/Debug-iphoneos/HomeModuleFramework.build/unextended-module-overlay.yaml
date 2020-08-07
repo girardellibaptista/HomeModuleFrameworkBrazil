@@ -1,0 +1,13 @@
+{
+  'version': 0,
+  'case-sensitive': 'false',
+  'roots': [{
+    'type': 'directory',
+    'name': "/Users/camilooscar/claro/HomeModuleFramework/Build/Products/Debug-iphoneos/HomeModuleFramework.framework/Modules"
+    'contents': [{
+      'type': 'file',
+      'name': "module.modulemap",
+      'external-contents': "/Users/camilooscar/claro/HomeModuleFramework/Build/Intermediates.noindex/HomeModuleFramework.build/Debug-iphoneos/HomeModuleFramework.build/unextended-module.modulemap",
+    }]
+  }]
+}

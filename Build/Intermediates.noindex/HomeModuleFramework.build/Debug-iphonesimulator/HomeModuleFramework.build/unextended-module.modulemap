@@ -1,0 +1,10 @@
+framework module HomeModuleFramework {
+  umbrella header "HomeModuleFramework.h"
+
+  export *
+  module * { export * }
+}
+
+module HomeModuleFramework.__Swift {
+    exclude header "HomeModuleFramework-Swift.h"
+}

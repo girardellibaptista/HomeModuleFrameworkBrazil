@@ -1,0 +1,5 @@
+version: "Apple Swift version 5.2.4 (swiftlang-1103.0.32.9 clang-1103.0.32.53)"
+options: "aded80dc9fd74f5a3fedc84fca8442f9"
+build_time: [1596735674, 439397000]
+inputs:
+  "/Users/camilooscar/claro/HomeModuleFramework/HomeModuleFramework/HomeModule.swift": [1596727639, 505344663]
